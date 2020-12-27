@@ -1,24 +1,9 @@
 # techno
+<p>Catálogo de compra feito com vue</p>
 
-## Project setup
-```
-yarn install
-```
+<img src="https://user-images.githubusercontent.com/47863089/103177489-ba4f9900-4859-11eb-805f-51696d4a367f.gif" alt="Catálogo de compra" title="Catálogo de compra" />
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Como rodar o projeto
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>Basta usar um serve web</p>
+**Dica: Live server extensão do vscode**
