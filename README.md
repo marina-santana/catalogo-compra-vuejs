@@ -6,4 +6,4 @@
 ## Como rodar o projeto
 
 <p>Basta usar um serve web</p>
-**Dica: Live server extensão do vscode**
+<b>Dica: Live server extensão do vscode</b>
